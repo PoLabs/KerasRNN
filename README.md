@@ -1,5 +1,6 @@
-# KerasRNN
+#tutorials
 
+#Keras rnn
 
 RNN using Keras2 and Tensorflow  
 
@@ -7,3 +8,8 @@ RNN using Keras2 and Tensorflow
 https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/  
 
 Data scraped directly from Binance API. 
+
+
+
+#comet.ml
+https://www.comet.ml/docs/python-sdk/scikit/
